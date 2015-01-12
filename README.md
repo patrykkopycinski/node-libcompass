@@ -1,0 +1,2 @@
+# node-libcompass
+node-libcompass
