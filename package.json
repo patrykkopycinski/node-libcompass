@@ -1,6 +1,6 @@
 {
   "name": "node-libcompass",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A node.js port of Compass mixins for use with node-sass",
   "main": "index.js",
   "scripts": {
