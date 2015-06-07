@@ -4,8 +4,14 @@
   "description": "A node.js port of Compass mixins for use with node-sass",
   "main": "index.js",
   "scripts": {
+    "scripts": {
+      "preinstall": "git submodule update -i -r"
+    },
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alex Hill",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "compass-mixins":"*"
+  }
 }
