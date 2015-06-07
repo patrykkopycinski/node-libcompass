@@ -1,7 +1,7 @@
 var path = require('path');
 
 function includePaths() {
-  return [path.join(__dirname, 'compass-mixins/lib')];
+  return [path.join(__dirname, 'node_modules/compass-mixins/lib')];
 }
 
 module.exports = {
