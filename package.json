@@ -9,6 +9,6 @@
   "author": "Alex Hill",
   "license": "ISC",
   "dependencies": {
-    "compass-mixins": "*"
+    "compass-mixins": "git://github.com/Igosuki/compass-mixins#compass_latest"
   }
 }
